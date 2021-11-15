@@ -1,0 +1,18 @@
+/* div{
+    background-color: rgb(251, 255, 0);
+    position: relative;
+    height: 100px;
+    width: 100px;
+    left: 580px;
+    top: 400px;
+    border-radius: 50%;
+    filter: blur(5px);
+} */
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+
+    /* color:rgb(14, 0, 0); */
+}
